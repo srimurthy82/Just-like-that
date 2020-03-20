@@ -24,7 +24,6 @@ def numOfDays(year, month_num, day):
 
     return days
 
-
 date_ = sys.argv[1]
 
 date_ = cleanDate(date_)
